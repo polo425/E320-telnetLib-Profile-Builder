@@ -1,2 +1,0 @@
-# jprofile
-JUNOS PROFILE BUILDER
